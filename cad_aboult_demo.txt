@@ -1,0 +1,7 @@
+Um arquivo batch (o bat) é um simples arquivo de texto (ASCII) em que cada linha contém comandos que podem ser interpretados sucessivamente por DOS. Esse arquivo pode ser executado a partir do prompt de comando ou diretamente no Windows dando um duplo clique sobre ele. 
+
+Design de experimento "DOE" 
+
+Os arquivos .gradle são scripts escritos na linguagem Groovy que são usados para configurar e automatizar 
+a construção de projetos de software. Eles são usados pelo Gradle, uma ferramenta de automação de construção de código aberto que é usada para compilar e construir projetos de software12. Ao contrário dos formatos de construção do Ant e Maven, que usam arquivos XML para a configuração, os arquivos do Gradle permitem que você realize tarefas de programação em seu arquivo de configuração1.
+
