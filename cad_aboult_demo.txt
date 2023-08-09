@@ -5,3 +5,5 @@ Design de experimento "DOE"
 Os arquivos .gradle são scripts escritos na linguagem Groovy que são usados para configurar e automatizar 
 a construção de projetos de software. Eles são usados pelo Gradle, uma ferramenta de automação de construção de código aberto que é usada para compilar e construir projetos de software12. Ao contrário dos formatos de construção do Ant e Maven, que usam arquivos XML para a configuração, os arquivos do Gradle permitem que você realize tarefas de programação em seu arquivo de configuração1.
 
+Todos os programas Java usam palavras chaves, exemplos sao public, String, int, for, while e double
+aqui link para ver mais: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html

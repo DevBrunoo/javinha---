@@ -1,8 +1,9 @@
 public class IncrementDecrementExample {
     public static void main(String[] args) {
-        int pressa = 0;     // Variable to represent "pressa"
-        int fraco = 5;      // Variable to represent "fraco"
-        int covarde = 10;   // Variable to represent "covarde"
+        int pressa = 0;     // Variable to represent "pressa" a variavel esta presente, o que nao esta e minha paciencia 
+        int fraco = 5;      // Variable to represent "fraco" dsggg 
+        int covarde = 10;   // Variable to represent "covarde" aqui estou falando da classe burguesa safada
+        
         
         // Increment operators (++): Increases the value by 1
         pressa++;           // pressa = 1
