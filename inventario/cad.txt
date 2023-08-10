@@ -1,0 +1,13 @@
+Criar app em java, que configuere um inventario 
+
+E um sistema que seja capaz de armazenar pelo menos 6 coias
+
+Crie uma classe de objeto com o nome de Produto 
+Adicione os seguintes os seguintes campos de variavel numero do item, o nome do produto, o numero de unidades 
+Adicione os seguintes campos (variáveis) de instância privada utilizando os tipos de dados identificados na tarefa 2:
+a. número do item
+b. o nome do produto
+c. o número de unidades em estoque
+d. o preço de cada unidade
+6. Acima das declarações de campo de instância, adicione o comentário:
+//Declarações de campo de instância
