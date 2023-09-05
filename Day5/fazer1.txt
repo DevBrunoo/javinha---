@@ -1,0 +1,33 @@
+Copyright © 2022, Oracle e/ou suas empresas afiliadas. Oracle, Java e MySQL são marcas comerciais registradas da Oracle Corporation e/ou de suas empresas afiliadas. Outros nomes podem ser
+marcas comerciais de seus respectivos proprietários.
+2
+4. Você deseja ter a possibilidade de marcar os seus produtos como ativos ou descontinuados. Quando um produto
+é descontinuado, isso significa que o estoque restante será o último e que não haverá mais pedidos para o
+produto em questão.
+a. Adicione um campo de instância booliano chamado Ativo à sua classe Produto com um valor padrão de
+verdadeiro.
+b. Crie métodos getter/setter para esse novo campo.
+c. Adicione o valor desse novo campo ao método toString(), de modo que essa saída corresponda ao
+seguinte:
+Número do Item : 1
+Nome : Greatest Hits
+Quantidade em estoque : 25
+Preço : 9,99
+Status do Produto : verdadeiro
+5. Quando você executar o código, será exibido um valor falso ou verdadeiro para Ativo. Isso não é amigável, e
+seria melhor que a saída fosse Ativo (verdadeiro) ou Descontinuado (falso). Adicione um operador no seu
+método toString() para atingir esse objetivo.
+6. Chame o setter com a classe driver e defina o valor ativo como falso para o objeto p6 antes de exibir os valores
+na tela. Execute e teste o seu código.
+7. Crie um método na classe Produto para retornar o valor do inventário de cada item. Use o preço do produto
+multiplicado pela quantidade do estoque para calcular o valor do inventário. Não use variáveis locais nesse
+método. Simplesmente retorne o valor em uma única linha de código.
+8. Atualize o método toString() na classe Produto a fim de incluir uma chamada no método getInventoryValue() que você
+acabou de criar para que a saída seja:
+Número do Item : 1
+Nome : Greatest Hits
+Quantidade em estoque : 25
+Preço : 9,99
+Valor do Estoque : 249,75
+Status do Produto : verdadeiro
+9. Salve o seu projeto
