@@ -106,3 +106,15 @@ class Product {
         return String.format("Produto: %s, Quantidade: %d, Preço: %.2f, Número do Item: %d", name, quantity, price, itemNumber);
     }
 }
+
+
+/* 
+ * Nesse codigo vocé ira inserir produtos que deseja cadastrar
+ * Exemplo: Skate , Quantidade: 0, Preço: 100,00, Número do Item: 9821
+ * Para rodar o codigo execute no terminal: 
+ * cd erros 
+ * java 5.java
+ */
+/* 
+ * E um projeto mais para almoxarifado que deseja cadastrar produtos 
+ */
